@@ -1,2 +1,2 @@
-# stylegan_paintings
+# flood-GAN
 stylegan trained on paintings
